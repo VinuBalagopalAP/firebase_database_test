@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16818032661",
+    "firebase_url": "https://service-book-flutter-vinu-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "service-book-flutter-vinu",
+    "storage_bucket": "service-book-flutter-vinu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16818032661:android:438e9df3586845b19cfe1c",
+        "android_client_info": {
+          "package_name": "com.example.database_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16818032661-efp7cphb5l37eutmein9qat844sqjkk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKASWhwsX0eqCW-YfsG6WAji8KoAvwzP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16818032661-efp7cphb5l37eutmein9qat844sqjkk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
